@@ -1,0 +1,1 @@
+# -Solving-the-Schr-dinger-Wave-Equation-for-Quantum-Particles
